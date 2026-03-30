@@ -2,6 +2,21 @@
 Student class projects. Some projects may be listed twice due to
 students working on a project for multiple quarters. Non-ASP.NET projects will indicate their platform
 
+## Winter 2026 - Portfolio
+- https://github.com/Ghostshadow1222/MotherTreeCrafts
+- https://github.com/VacaSama/ProjectDungbeetle
+- https://github.com/InterLinked-Creations/Website
+- https://github.com/aiden-richard/CptcEvents
+- https://github.com/Adelisef33/LetMusicConnectStrangers
+
+## Fall 2025 - Advanced .NET Projects (Web and other)
+- https://github.com/CPTC-Gaming-Team/AdoptAMonsterSite
+- https://github.com/VacaSama/FurByte
+- https://github.com/cwahl02/MaintenancePortal
+- https://github.com/CPTC-Gaming-Team/GameBox
+- https://github.com/Ghostshadow1222/Corkboard
+- https://github.com/GlamWire-CaseCracked/GlamWire-CaseCracked
+
 ## Summer 2025 - Portfolio
 - https://github.com/FernandoFonseca-code/GirlScoutTroop41645Page
 - https://github.com/bmitzel88/NeverNeverLand
